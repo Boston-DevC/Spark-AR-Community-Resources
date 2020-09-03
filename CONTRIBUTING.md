@@ -1,3 +1,5 @@
+# How to contribute
+
 1. Fork this repository to your own GitHub account.
 1. Create a new branch on your repository to put your resource in.
 1. Create a new folder within the `Resources` folder that describes your project in a short way.
